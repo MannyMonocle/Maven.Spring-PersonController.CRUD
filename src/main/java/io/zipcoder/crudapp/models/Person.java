@@ -38,4 +38,8 @@ public class Person {
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
+
+    public Integer getId() {
+        return id;
+    }
 }
